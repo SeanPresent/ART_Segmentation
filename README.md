@@ -1,9 +1,3 @@
-# ART_Segmentation
-
-Below is an example GitHub introduction (README section) for ART Segmentation:
-
----
-
 # ART Segmentation
 
 **ART Segmentation** (Agentic Residual Transformer Segmentation) is a novel deep-learning framework designed for robust and accurate ultrasound image segmentation. Our model integrates a cutting-edge Swin Transformer backbone with a specialized segmentation architecture that leverages a Tri Agent Block for dynamic multi-scale feature refinement, along with a semi-supervised learning strategy to effectively leverage small annotated datasets.
